@@ -25,7 +25,8 @@ Python Modules:
  1.	Clone this repository to your local machine:
 
 ```
-git clone https://github.com/codelassey/GO2COD_PY_03/
+git clone https://github.com/codelassey/GO2COD_PY_03.git
+
 cd GO2COD_PY_03
 
 ```
