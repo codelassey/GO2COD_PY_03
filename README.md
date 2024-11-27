@@ -30,13 +30,16 @@ git clone https://github.com/codelassey/GO2COD_PY_03.git
 cd GO2COD_PY_03
 
 ```
- 2.	Place your preferred sound file in the project folder and name it alarm_sound.mp3 (or update the filename in the code).
+ 2.	If you do not prefere the alarm sound that comes with this code, place your preferred sound file in the project folder and name it alarm_sound.mp3 (or update the filename in the code).
+
  
  3.	Run the script:
 ```
 python3 alarmclock.py
 ```
+
  4.	Enter the alarm time in HH:MM format when prompted (e.g., 07:30 for 7:30 AM).
+
  
  5.	The script will notify you and play a sound when the time is reached.
 
